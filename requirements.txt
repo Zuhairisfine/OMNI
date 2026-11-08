@@ -1,0 +1,7 @@
+# O.M.N.I. Survival Engine Requirements
+# Built with Python 3 Standard Library (abc, json, unittest, typing, sys, os)
+# No external third-party dependencies required to run the core engine or test suite!
+
+# Optional developer / test runner tools:
+pytest>=8.0.0
+
